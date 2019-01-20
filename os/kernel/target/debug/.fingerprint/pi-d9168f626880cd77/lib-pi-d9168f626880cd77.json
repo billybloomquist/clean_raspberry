@@ -1,0 +1,1 @@
+{"rustc":10694955584413075917,"features":"[\"std\"]","target":15909260569790061848,"profile":2317794589427863537,"path":704123850969194899,"deps":[["volatile v0.1.0 (file:///home/billyb/RaspberyPiOS/os/volatile)",8376711179999618300]],"local":[{"MtimeBased":[[1544136917,192693013],".fingerprint/pi-d9168f626880cd77/dep-lib-pi-d9168f626880cd77"]}],"rustflags":[]}
